@@ -1,0 +1,65 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+h1 {
+    color: #333;
+    font-size: 28px; 
+    font-weight: bold; 
+    text-align: center; 
+    margin-top: 20px; 
+  }
+
+  ul {
+    list-style-type: disc; 
+    color: #333; 
+    font-size: 16px; 
+    margin: 0; 
+    padding: 0; 
+  }
+  
+  ul li {
+    margin-bottom: 8px; 
+  }
+
+  ol {
+    list-style-type: decimal; 
+    color: #333; 
+    font-size: 16px; 
+    margin: 0; 
+    padding: 0; 
+  }
+  
+  ol li {
+    margin-bottom: 8px; 
+  }
+
+  table {
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-bottom: 16px;  
+  }
+  
+  table th, table td {
+    border: 1px solid #333; 
+    padding: 8px; 
+    text-align: left; 
+    
+  }
+  
+  table th {
+    background-color: #f0f0f0; 
+    font-weight: bold; 
+    
+  }
+
+  p {
+    font-size: 16px; /
+    line-height: 1.5; 
+    margin-bottom: 16px; 
+    color: #333; 
+
+  }
+
+  input[type="submit"]:hover {
+    background-color: #555; 
+    
+  }
